@@ -1675,6 +1675,14 @@
         <derby.version>10.10.1.1</derby.version>
       </properties>
     </profile>
+    <profile>
+      <id>hive-0.14</id>
+      <properties>
+        <hive.version>0.14</hive.version>
+        <hive.version.short>0.14</hive.version.short>
+        <derby.version>10.10.1.1</derby.version>
+      </properties>
+    </profile>
 
     <profile>
       <id>scala-2.10</id>
